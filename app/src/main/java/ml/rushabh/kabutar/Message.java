@@ -3,6 +3,9 @@ package ml.rushabh.kabutar;
 public class Message {
     private String messageText;
     private String sender;
+    Message(){
+
+    }
     Message(String messageText,String sender){
         this.messageText = messageText;
         this.sender = sender;

@@ -5,6 +5,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android" >
 
     <android.support.v7.widget.RecyclerView
+        android:id="@+id/list_rv"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_weight="29"
@@ -20,12 +21,14 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/message_ET"
             android:layout_weight="4"
             android:textSize="20sp"
-            android:text="hello.."/>
+            android:hint="Enter text.."/>
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/submit_btn"
             android:text="Send"
             android:layout_weight="1"/>
     </LinearLayout>
