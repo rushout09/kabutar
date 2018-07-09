@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "699042402467",
+    "firebase_url": "https://kabutar-3ed98.firebaseio.com",
+    "project_id": "kabutar-3ed98",
+    "storage_bucket": "kabutar-3ed98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699042402467:android:078b1f9ee367f641",
+        "android_client_info": {
+          "package_name": "ml.rushabh.kabutar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699042402467-uucviaeqnn5aimaf4tnjca4nvsokbaht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ml.rushabh.kabutar",
+            "certificate_hash": "632254898d22aec75d7c0da2e6da619f4b57996c"
+          }
+        },
+        {
+          "client_id": "699042402467-dsnkv8i9djlk1i9b9t9e87ifvnpil6j7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcxXPL6MA9jMuLfvUxboq-EsehOBdb9dA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699042402467-dsnkv8i9djlk1i9b9t9e87ifvnpil6j7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
