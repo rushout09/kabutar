@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     FirebaseUser mUser;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -29,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
         }
         else{
             setContentView(R.layout.activity_main);
+
 
         }
 
